@@ -7,7 +7,7 @@
  - Projeto construído durante o curso PROPROFISSÃO.
 
 ## Acesso
- [Clique aqui para acessar! :)](relogio-digitalbr.vercel.app)
+ [Clique aqui para acessar! :)](https://relogio-digitalbr.vercel.app)
 
 ## Tecnologias
 
